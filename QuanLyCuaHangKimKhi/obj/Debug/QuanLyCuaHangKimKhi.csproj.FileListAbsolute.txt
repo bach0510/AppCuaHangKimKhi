@@ -1,0 +1,9 @@
+E:\AppCuaHangKimKhi\QuanLyCuaHangKimKhi\bin\Debug\QuanLyCuaHangKimKhi.exe.config
+E:\AppCuaHangKimKhi\QuanLyCuaHangKimKhi\bin\Debug\QuanLyCuaHangKimKhi.exe
+E:\AppCuaHangKimKhi\QuanLyCuaHangKimKhi\bin\Debug\QuanLyCuaHangKimKhi.pdb
+E:\AppCuaHangKimKhi\QuanLyCuaHangKimKhi\obj\Debug\QuanLyCuaHangKimKhi.csprojAssemblyReference.cache
+E:\AppCuaHangKimKhi\QuanLyCuaHangKimKhi\obj\Debug\QuanLyCuaHangKimKhi.Properties.Resources.resources
+E:\AppCuaHangKimKhi\QuanLyCuaHangKimKhi\obj\Debug\QuanLyCuaHangKimKhi.csproj.GenerateResource.cache
+E:\AppCuaHangKimKhi\QuanLyCuaHangKimKhi\obj\Debug\QuanLyCuaHangKimKhi.csproj.CoreCompileInputs.cache
+E:\AppCuaHangKimKhi\QuanLyCuaHangKimKhi\obj\Debug\QuanLyCuaHangKimKhi.exe
+E:\AppCuaHangKimKhi\QuanLyCuaHangKimKhi\obj\Debug\QuanLyCuaHangKimKhi.pdb
